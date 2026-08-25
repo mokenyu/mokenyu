@@ -3,33 +3,33 @@
 
 ### Backend Developer | AI Agents & MCP Specialist | Telegram Automations
   
-*"Change is K"*
+*"Change = K"*
 
 ---
 ---
 
 ## <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50" alt="Wave GIF"> About Me
 
+_here's some popcorn 🍿_
+
 I am a Backend & AI Automation Developer focused on building high-impact agentic workflows, Telegram automation tools, and production-ready APIs. 
 
-* 🏆 **1st Place Winner at Coltechathon Hackathon** for Gravelly (Real-time WebRTC AI Speech Coach).
 * ⚙️ **Core Expertise**: Python, FastAPI, Gemini Live API, LangChain/LangGraph, Telethon Telegram Automations, Model Context Protocol (MCP), and Supabase RLS.
-* 🎯 **Engineering Philosophy**: Pragmatic engineering focused on shipping clean, reliable, and unbloated systems that solve real user problems directly.
+* My engineering philosophy is focused on shipping clean, reliable systems that must provide users with increased free time. ☕
 
----
+#### Some of my work. Check out my pinned for more!
 
-## Featured Star Projects
-
-* **[Gravelly](https://github.com/sirmbom/va-gravelly)** *(Coltechathon 1st Place Winner)* — Real-time AI speech coach and interview trainer powered by Gemini Live API and GetStream WebRTC.
-* **[Toolify](https://github.com/sirmbom/Toolify-abimmost)** — Multimodal AI tool recognition and manual generator built with Next.js 15, FastAPI, Gemini Vision, Tavily, and YouTube transcript extraction.
-* **[Craptcha-TTS](https://github.com/sirmbom/craptcha-tts)** — Telethon-powered Telegram message scraper streaming low-latency 24kHz PCM native audio via Gemini Live API.
-* **[Swello Server](https://github.com/sirmbom/swello-server)** — Cameroonian food discovery backend engine with custom Balanced Level Score (BLS) algorithms and Gemini multi-model fallback routines.
-
+* **[Gravelly](https://github.com/sirmbom/va-gravelly)** — Real-time AI speech coach and interview trainer powered by Gemini Live API and GetStream WebRTC.
+* **[Toolify](https://github.com/sirmbom/Toolify-abimmost)** — Multimodal AI tool recognition and manual generator built.
+* **[Craptcha-TTS](https://github.com/sirmbom/craptcha-tts)** — Telethon-powered Telegram message scraper streaming.
+_Some have won hackathons but that's just flair_
 ---
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sirmbom&theme=sakura-x&hide_border=true&border_radius=5&card_width=300&background=-255%2C161506%2C7C9DEB&ring=5047DD&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
 </div>
+
+_Impressive? No?_
 
 ---
 
