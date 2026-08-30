@@ -26,7 +26,7 @@ _Some have won hackathons but that's just flair_
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sirmbom&theme=sakura-x&hide_border=true&border_radius=5&card_width=300&background=-255%2C161506%2C7C9DEB&ring=5047DD&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sirmbom&theme=sakura-x&hide_border=true&exclude_days=Sat&card_width=350&card_height=175&hide_total_contributions=true" alt="GitHub Streak" />
 </div>
 
 _Impressive? No?_
@@ -35,7 +35,9 @@ _Impressive? No?_
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mokenyu-atsimbom" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Connect%20on%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="38" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/static/v1?message=Let's%20Connect%20on%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="38" alt="LinkedIn Profile" />
   </a>
+</div>
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sirmbom.sirmbom" />
 </div>
