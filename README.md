@@ -25,7 +25,7 @@ _Some have won hackathons but that's just flair_
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sirmbom&theme=sakura-x&hide_border=true&exclude_days=Sat&card_width=350&card_height=175&hide_total_contributions=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sirmbom&theme=sakura-x&hide_border=true&card_width=350&card_height=175&hide_total_contributions=true" alt="GitHub Streak" />
 </div>
 
 _Impressive? No?_
