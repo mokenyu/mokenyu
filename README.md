@@ -35,7 +35,7 @@ _Impressive? No?_
 <div align="center">
   <img align="right" src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" height="60" width="310" alt="Developer GIF">
   <p>
-    <a href="https://www.linkedin.com/in/mokenyu-atsimbom" target="_blank"><img src="https://img.shields.io/static/v1?message=Let's%20Connect%20on%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="38" alt="LinkedIn Profile" /></a>
+    <a href="https://www.linkedin.com/in/mokenyu-atsimbom" target="_blank"><img src="https://img.shields.io/static/v1?message=Connect%20on%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="38" alt="LinkedIn Profile" /></a>
   </p>
   <p>
     <img align="center" src="https://komarev.com/ghpvc/?username=mokenyu&label=Thanks+for+visiting" />
