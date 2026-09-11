@@ -38,6 +38,6 @@ _Impressive? No?_
     <a href="https://www.linkedin.com/in/mokenyu-atsimbom" target="_blank"><img src="https://img.shields.io/static/v1?message=Let's%20Connect%20on%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="38" alt="LinkedIn Profile" /></a>
   </p>
   <p>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=mokenyu.mokenyu" alt="Thanks for Visiting" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=mokenyu&label=Thanks+for+visiting" />
   </p>
 </div>
