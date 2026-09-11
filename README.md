@@ -28,7 +28,7 @@ _Some have won hackathons but that's just flair_
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mokenyu&theme=sakura-x&hide_border=true&card_width=350&card_height=175&hide_total_contributions=true" alt="GitHub Streak" />
 </div>
 
-_Impressive? No?_
+_Impressive? A little? No?_
 
 ---
 
