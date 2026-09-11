@@ -9,7 +9,6 @@
 
 ## <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="50" alt="Wave GIF"> About Me
 
-_accept this humble popcorn🍿_
 
 I am a Backend & AI Automation Developer focused on building high-impact agentic workflows, Telegram automation tools, and production-ready APIs. 
 
